@@ -81,7 +81,7 @@ Gboardでは、か行のフリック入力は、
  [MITライセンス](https://opensource.org/licenses/MIT) のもとで公開しています。  
 自由にご利用ください。(詳しくは「LICENSE」ファイルをご覧ください。)
 
-また、このプロジェクトにはTurboWarpというツール（ScratchのMOD）を使用しました。そのライセンスについては「LICENSE（TurboWarp）」のファイルをご覧ください。
+また、このプロジェクトにはTurboWarpというツール（ScratchのMOD）を使用しました。そのライセンスについては「script.js」のファイルをご覧ください。
 
 ## 作者情報
 
