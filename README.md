@@ -85,7 +85,7 @@ Gboardでは、か行のフリック入力は、
 
 ## 作者情報
 
-つくったひと：sotomono（19 years old）
+作者：sotomono（19歳）
 
 今年（2025年）、プログラミング言語を勉強しようと思い立ち、試行錯誤の末 [一つのWebサイト](https://sotomono.github.io/rta-project/)を作ったものの、未だ使いこなせる言語はゼロ。
 厳密にはScratchでプログラミングができます。今回のツールも、大部分はScratchで作りました。
